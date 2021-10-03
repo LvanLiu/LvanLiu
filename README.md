@@ -1,7 +1,7 @@
 
 ### Lvan‘s story
 
-- 🌱 I have a dream:世界和平
+- 🌱 about me: 一个热爱技术的菜鸟
 - ⚡ 个人博客: https://lvanliu.github.io/LvanNote/#/  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LvanLiu&show_icons=true&theme=light)
